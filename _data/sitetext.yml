@@ -28,7 +28,7 @@ en: &DEFAULT_EN
         desc: "We do Responsive Design"
         icon: fas fa-laptop
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+        desc: "We do Markdown"
         icon: fab fa-markdown
 
   portfolio:
@@ -45,8 +45,8 @@ en: &DEFAULT_EN
     #start_align: "left"
     events:
       - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        year: "2020-2021"
+        desc: "This is where we started"
         image: assets/img/timeline/1.jpg
         alt:
       - title: "An Agency is Born"
