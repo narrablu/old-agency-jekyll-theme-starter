@@ -25,7 +25,8 @@ author     : Narrablu
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
 logo:
-  path: assets\img\Narrablu-Logo.png
+  path: assets\img\Narrablu-Logo.jpg
+  height: 99
   
 locale: "en-US" # See available languages in _data/sitetext.yml
 
