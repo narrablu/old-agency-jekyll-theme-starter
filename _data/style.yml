@@ -4,5 +4,6 @@
 #black: "#000"
 
 #Image Customization
-header-image: "../img/header-bg.jpg"
+#header-image: "../img/header-bg.jpg"
+header-image: "../img/desktops-lrg-annie-spratt-FSFfEQkd1sc-unsplash.jpg"
 contact-image: "../img/map-image.png"
